@@ -20,8 +20,8 @@
  <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" alt="javascript" style="vertical-align:top; margin:4px">
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="boostrap" style="vertical-align:top; margin:4px">
  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vs code" style="vertical-align:top; margin:4px">
- <img src="https://img.icons8.com/dusk/64/000000/adobe-xd.png" alt="vs code" style="vertical-align:top; margin:4px; width: 30px; height: 30px">
- <img src="https://img.icons8.com/windows/64/000000/figma.png" alt="vs code" style="vertical-align:top; margin:7px 2px 7px -5px; width: 30px; height: 30px">
+ <img src="https://img.icons8.com/dusk/64/000000/adobe-xd.png" alt="vs code" style="vertical-align:top; margin-top:4px; width: 30px; height: 30px">
+ <img src="https://img.icons8.com/windows/64/000000/figma.png" alt="vs code" style="vertical-align:top; margin-top:7px; width: 30px; height: 30px">
 </p>
 
 ---
