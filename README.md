@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
+# About me
 
 - 🧔🏿 I am Jorge Teixeira, from Brazil.
 - 👨🏿‍🎓 Currently, I am studying Systems Analysis and Development (UNIASSELVI).
@@ -12,7 +12,7 @@
 
 ---
 
-&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
+# Languages and Tools
 
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" style="vertical-align:top; margin:4px">
@@ -26,7 +26,8 @@
 
 ---
 
-- 📫 How to reach me:
+## 📫 How to reach me:
+
   <br>
   <br>
   <a href = "https://www.facebook.com/jorgesergioteixeira.jr/"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
