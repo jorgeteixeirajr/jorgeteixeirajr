@@ -5,8 +5,8 @@
 # About me
 
 - 🧔🏿 I am Jorge Teixeira, from Brazil.
-- 👨🏿‍🎓 Currently, I am studying Systems Analysis and Development (UNIASSELVI).
-- 🤓 I'm currently learning fullstack, HTML, CSS, JavaScript and NodeJS development
+- 👨🏿‍🎓 Currently, I am studying Design of product (UNIASSELVI).
+- 🤓 I'm currently learning HTML, CSS and JavaScript.
 - 🆘 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about web technologies and I will be delighted to talk about it.
 
